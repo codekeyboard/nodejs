@@ -11,4 +11,4 @@ const math = require('./math')
 // console.log(sub(5,2))
 
 console.log(math.mul(2,3));
-console.log(math.div(10,5));
+rconsole.log(math.div(10,5));
